@@ -67,7 +67,7 @@ Currently, I'm exploring:
 
 ## How to Reach Me
 
-- **Email:** [artistxoder@example.com](mailto:artistxoder@duck.com)
+- **Email:** [artistxoder@duck.com](mailto:artistxoder@duck.com)
 - **Discord:** gigglingalloy#0000  
 
 ---
